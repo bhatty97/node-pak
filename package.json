@@ -1,28 +1,29 @@
+﻿    
 {
-  "name": "hanny",
-  "version": "1.0.2",
-  "description": "A personalized quiz about the marvelous Han Yi Wang",
+  "name": "bhatty",
+  "version": "1.0.11",
+  "description": "A personalized quiz about the marvelous Yash Bhatt. Time to add some easter eggs :)",
   "main": "./lib/questions.js",
   "bin": {
-    "hanny": "./bin/index.js"
+    "yash": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanywang2/npm-package.git"
+    "url": "git+https://github.com/bhatty97/node-pak.git"
   },
   "keywords": [
     "npm",
-    "hanny",
-    "hanyi",
-    "hanyiwang",
-    "wang"
+    "kenny",
+    "yash",
+    "kiyashin",
+    "bhatt"
   ],
-  "author": "Han Wang",
+  "author": "Yash Bhatt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hanywang2/npm-package/issues"
+    "url": "https://github.com/bhatty97/node-pak"
   },
-  "homepage": "https://github.com/hanywang2/npm-package#readme",
+  "homepage": "https://github.com/bhatty97/node-pak",
   "dependencies": {
     "chalk": "^2.4.2",
     "cli-progress": "^2.1.1",
